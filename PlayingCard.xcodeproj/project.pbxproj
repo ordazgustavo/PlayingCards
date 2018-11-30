@@ -15,6 +15,7 @@
 		61072A9F21ABABE10068928A /* PlyingCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61072A9E21ABABE10068928A /* PlyingCard.swift */; };
 		61072AA121ABB1B30068928A /* PlayingCardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61072AA021ABB1B30068928A /* PlayingCardDeck.swift */; };
 		61072AA321AC48B50068928A /* PlayingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61072AA221AC48B40068928A /* PlayingCardView.swift */; };
+		61F850C121B1824D008B4FA6 /* CardBehavior.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F850C021B1824D008B4FA6 /* CardBehavior.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		61072A9E21ABABE10068928A /* PlyingCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlyingCard.swift; sourceTree = "<group>"; };
 		61072AA021ABB1B30068928A /* PlayingCardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardDeck.swift; sourceTree = "<group>"; };
 		61072AA221AC48B40068928A /* PlayingCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardView.swift; sourceTree = "<group>"; };
+		61F850C021B1824D008B4FA6 /* CardBehavior.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardBehavior.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				61072AA021ABB1B30068928A /* PlayingCardDeck.swift */,
 				61072A9D21ABAB5F0068928A /* Supporting Files */,
 				61072A8D21ABAB3C0068928A /* ViewController.swift */,
+				61F850C021B1824D008B4FA6 /* CardBehavior.swift */,
 				61072A8F21ABAB3C0068928A /* Main.storyboard */,
 				61072A9221ABAB400068928A /* Assets.xcassets */,
 				61072A9721ABAB400068928A /* Info.plist */,
@@ -157,6 +160,7 @@
 				61072A8C21ABAB3C0068928A /* AppDelegate.swift in Sources */,
 				61072AA321AC48B50068928A /* PlayingCardView.swift in Sources */,
 				61072A9F21ABABE10068928A /* PlyingCard.swift in Sources */,
+				61F850C121B1824D008B4FA6 /* CardBehavior.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
